@@ -169,7 +169,7 @@ hr{
 .footd a{
     color: #707070;
     position: relative;
-    left: 24em;
+    left: 25em;
     font-weight: bolder;
 }
 .apropos{
@@ -180,14 +180,24 @@ hr{
     top: 15px;
 }
 .footbas{
-    height: 6em;
+    height: 9em;
     background-color: #efeeee;
     width: 117em;
     padding-top: 4em;
 }
 .footbas > span{
     position: relative;
-    left: 55em;
+    left: 56em;
+    bottom: 3em;
     font-size: smaller;
     color: #7a7a7a;
+}
+.footbas img{
+    width: 20px;
+    height: 20px;
+    margin: 1em;
+    position: relative;
+    left: 53em;
+    bottom: 3em;
+
 }
